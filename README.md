@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 Inpac [it:me] saye.chats 
   GHT: (Good / `sell_bay)
-  In [1]: File=open (`Users\This Orion\Desktop\QAtest)
+  In [1]: File=open (Users\This Orion\Desktop\QAtest)
